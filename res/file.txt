@@ -1,0 +1,4 @@
+Adidas,Superstar II,2015,JCMcRae
+Adidas,Tubular Nova Primeknit,2016,JCMcRae
+Adidas,Los Angeles,2017,JCMcRae
+Adidas,NMD,2016,JCMcRae
